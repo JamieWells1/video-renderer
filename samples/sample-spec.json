@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Demo",
+    "title": "The Leather Jacket Protocol",
     "resolution": {
       "width": 1920,
       "height": 1080
@@ -9,61 +9,89 @@
   },
   "theme": {
     "preset": "dark",
-    "accent": "#58a6ff"
+    "accent": "#76b900"
   },
   "timeline": [
     {
       "type": "title",
-      "text": "Quarterly Review",
-      "subtitle": "Q3 Highlights",
+      "text": "The Leather Jacket Protocol",
+      "subtitle": "A fictional parody. Any resemblance to real events is purely accidental.",
       "anim": "zoom-in",
-      "narration": "Welcome to the quarterly review. Here are the highlights from Q3."
+      "narration": "The Leather Jacket Protocol. A completely fictional parody. In a quiet Taipei tea house, Jensen Huang sits down for what he thinks is an ordinary business catch-up.",
+      "image": {
+        "prompt": "a Taiwanese-American man in his early 60s, oval to slightly round face with a broad jaw, dark brown almond-shaped eyes narrowed by a big open-mouthed toothy smile, straight medium-width nose, clean-shaven, light to medium skin with smile lines, full silver-gray to white hair, medium-short and swept back with volume on top, medium height, average fit build, no glasses, wearing a black leather moto biker jacket with zippers over a black Nvidia logo t-shirt, dark jeans and dark sneakers, walking into a dim, cosy Taipei tea house with lanterns, waving cheerfully, clean flat vector illustration, deep green and charcoal palette with bright green accents, playful cartoon parody style",
+        "placement": "background",
+        "style": "flat"
+      }
     },
     {
       "type": "bullets",
-      "heading": "Key Wins",
+      "heading": "The Spy's Mission",
       "items": [
-        "Revenue up 24%",
-        "Churn down 3 points",
-        "Two new enterprise clients"
+        "Codename: Agent Dumpling",
+        "Objective: obtain next-gen GPU secrets",
+        "Cover story: \"just a big fan of graphics cards\""
       ],
       "stagger": 0.5,
-      "narration": "Revenue grew twenty four percent, churn fell three points, and we closed two new enterprise accounts."
+      "narration": "Across the table is Agent Dumpling, a spy whose mission is to extract next generation chip secrets. Her cover story? She is just a really big fan of graphics cards.",
+      "image": {
+        "prompt": "a tea house table with two teacups; on one side a Taiwanese-American man in his early 60s, oval to slightly round face with a broad jaw, dark brown almond-shaped eyes narrowed by a big open-mouthed toothy smile, straight medium-width nose, clean-shaven, light to medium skin with smile lines, full silver-gray to white hair, medium-short and swept back with volume on top, medium height, average fit build, no glasses, wearing a black leather moto biker jacket with zippers over a black Nvidia logo t-shirt, dark jeans and dark sneakers, smiling warmly; on the other side a young Chinese woman in her mid-20s with a sleek black bob, dressed as a comically obvious spy in a belted trench coat and oversized dark sunglasses, peeking suspiciously over a menu, clean flat vector illustration, deep green and charcoal palette with bright green accents, playful cartoon parody style",
+        "placement": "right",
+        "style": "flat"
+      }
+    },
+    {
+      "type": "bullets",
+      "heading": "Interrogation Attempts",
+      "items": [
+        "\"So... what's in the next chip?\"",
+        "\"Hypothetically, where are the blueprints?\"",
+        "\"Nice jacket. Any secrets in the pockets?\""
+      ],
+      "stagger": 0.6,
+      "narration": "Agent Dumpling tries every trick. Subtle questions. Hypotheticals. Even a compliment on the jacket. Each one is met with a warm smile and a forty five minute keynote.",
+      "image": {
+        "prompt": "a Taiwanese-American man in his early 60s, oval to slightly round face with a broad jaw, dark brown almond-shaped eyes narrowed by a big open-mouthed toothy smile, straight medium-width nose, clean-shaven, light to medium skin with smile lines, full silver-gray to white hair, medium-short and swept back with volume on top, medium height, average fit build, no glasses, wearing a black leather moto biker jacket with zippers over a black Nvidia logo t-shirt, dark jeans and dark sneakers, standing and gesturing energetically while holding up a GPU chip like on a keynote stage, while a young Chinese woman in her mid-20s with a sleek black bob, dressed as a comically obvious spy in a belted trench coat and oversized dark sunglasses, sits across the table looking exhausted and slumped, clean flat vector illustration, deep green and charcoal palette with bright green accents, playful cartoon parody style",
+        "placement": "right",
+        "style": "flat"
+      }
     },
     {
       "type": "chart",
       "chart_type": "bar",
-      "heading": "Monthly Recurring Revenue ($k)",
+      "heading": "Information Extracted (minutes)",
       "labels": [
-        "Jul",
-        "Aug",
-        "Sep"
+        "Secrets",
+        "Jacket talk",
+        "Keynote",
+        "AI hype"
       ],
       "values": [
-        410,
-        455,
-        512
+        0,
+        25,
+        45,
+        60
       ],
-      "narration": "Monthly recurring revenue climbed from four hundred ten thousand in July to five hundred twelve thousand in September."
+      "narration": "By the end of the meeting, the spy has collected zero minutes of secrets, twenty five minutes on leather jackets, and a full hour on how AI will change everything."
     },
     {
       "type": "bullets",
-      "heading": "Looking Ahead",
+      "heading": "Mission Report",
       "items": [
-        "Product launch in October",
-        "Two new markets",
-        "Hiring in engineering"
+        "Secrets obtained: none",
+        "Merch obtained: one signed GPU box",
+        "New career plan: buy Nvidia stock"
       ],
-      "narration": "Looking ahead, we launch the new product in October, enter two new markets, and continue hiring in engineering.",
+      "narration": "Agent Dumpling files her report. Secrets obtained, none. Merchandise obtained, one signed GPU box. New career plan, become a shareholder.",
       "image": {
-        "prompt": "minimal isometric illustration of a rocket launch over a city skyline, deep blue palette with coral accents, clean flat vector style",
+        "prompt": "a Taiwanese-American man in his early 60s, oval to slightly round face with a broad jaw, dark brown almond-shaped eyes narrowed by a big open-mouthed toothy smile, straight medium-width nose, clean-shaven, light to medium skin with smile lines, full silver-gray to white hair, medium-short and swept back with volume on top, medium height, average fit build, no glasses, wearing a black leather moto biker jacket with zippers over a black Nvidia logo t-shirt, dark jeans and dark sneakers, smiling and handing a signed GPU box to a young Chinese woman in her mid-20s with a sleek black bob, dressed as a comically obvious spy in a belted trench coat and oversized dark sunglasses, looking delighted, both at a tea house table, clean flat vector illustration, deep green and charcoal palette with bright green accents, playful cartoon parody style",
         "placement": "right",
-        "style": "isometric"
+        "style": "flat"
       }
     },
     {
       "type": "outro",
-      "text": "Thank you",
+      "text": "The more you buy, the more you save.",
       "duration": 2.5
     }
   ],
